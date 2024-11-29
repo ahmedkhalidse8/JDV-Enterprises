@@ -1,0 +1,17 @@
+body {
+    background-color: #f9f9f9;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+}
